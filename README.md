@@ -8,7 +8,7 @@
 1. ```git clone https://github.com/sarmaGit/nightwatch_demo```
 2. ```cd nightwatch_demo```
 3. ```npm install -g nightwatch```
-4. replace your nightwatch.json in ```C:\Users\[your_user]\AppData\Roaming\npm\node_modules\nightwatch\bin``` with cloned ```nightwatch_json\nightwatch.json```
+4. replace your nightwatch.json in ```C:\Users\[username]\AppData\Roaming\npm\node_modules\nightwatch\bin``` with cloned ```nightwatch_json\nightwatch.json```
 5. ```nightwatch``` run all tests in default enviroment
 
 ```nightwatch [source] [option]```, omitting source and option will start default enviroment. 
