@@ -1,10 +1,10 @@
-###System requirements:
+### System requirements:
 
 1. node.js and npm
 2. up-to-date chrome/firefox installed by default
 3. java-jdk
 
-###Install and how to use (quickway):
+### Install and how to use (quickway):
 1. ```git clone https://github.com/sarmaGit/nightwatch_demo```
 2. ```cd nightwatch_demo```
 3. ```npm install -g nightwatch```
